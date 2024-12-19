@@ -1,4 +1,4 @@
-package day_24_arrays_part1;
+package day24_arrays_part1;
 
 public class task_90 {
 
