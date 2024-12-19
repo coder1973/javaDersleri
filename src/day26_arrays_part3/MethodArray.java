@@ -7,7 +7,7 @@ public class MethodArray {
 	public static void main(String[] args) {
 		
 		
-		printArray(5);
+		printArray(8);
 		
 
 	}
